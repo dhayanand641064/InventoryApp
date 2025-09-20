@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- N letter with rounded right side and sharp left side (corrected orientation) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M100,20 
+                         C100,15 95,15 90,15 
+                         L90,85 
+                         C90,90 95,90 100,90 
+                         L100,20 Z
+                         M90,20 
+                         L90,70 
+                         L40,20 
+                         L30,20 
+                         L30,90 
+                         L40,90 
+                         L40,40 
+                         L90,90 
+                         L100,90 
+                         L100,20 
+                         L90,20 Z" />
+</vector>
